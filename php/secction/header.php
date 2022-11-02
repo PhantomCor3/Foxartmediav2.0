@@ -1,28 +1,38 @@
-<?php @session_start();?>
-<!DOCTYPE html>
-<?php include 'php/text.php';?>
-<html lang="en">
+<!-- get_header('Page Name','Title')-->
+<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<title>SEO - SEO Index Page</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		
+		<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900%7COpen+Sans:400,700,700i" rel="stylesheet">
 
-<head>
-<!-- Meta Tags -->
-<meta name="viewport" content="width=device-width,initial-scale=1.0"/> 
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-<meta name="description" content="<?php echo $ExDescription;?>" />
-<meta name="author" content="MAVEN" />
+		<link rel="icon" type="image/png" href="favicon.ico">
+		<!-- Place favicon.ico in the root directory -->
+		<link rel="apple-touch-icon" href="apple-touch-icon.png">
+		<link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
-<!-- Page Title -->
-<title><?php if($page_name=='index.php'){echo "$Company";}
-elseif ($page_name=='about.php') {echo "$Company | About";}
-elseif ($page_name=='services.php') {echo "$Company | Services";}
-elseif ($page_name=='gallery.php') {echo "$Company | Gallery";}
-elseif ($page_name=='testimonials.php') {echo "$Company | Testimonials";}
-elseif ($page_name=='thank-you.php') {echo "$Company";}
-elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
-</title>    
-<link rel="stylesheet" href="css/css_minified.css">
-<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
-</head>
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<link rel="stylesheet" href="assets/css/animate.css">
+		<link rel="stylesheet" href="assets/css/iconfont.css">
+		<link rel="stylesheet" href="assets/css/magnific-popup.css">
+		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+		<link rel="stylesheet" href="assets/css/rev-settings.css">
 
+		<!--For Plugins external css-->
+		<link rel="stylesheet" href="assets/css/plugins.css" />
+
+		<!--Theme custom css -->
+		<link rel="stylesheet" href="assets/css/style.css">
+
+		<!--Theme Responsive css-->
+		<link rel="stylesheet" href="assets/css/responsive.css" />
+	</head>
+    
 <body>
 <?php $_SESSION['token'] = md5(microtime()); ?>
 
