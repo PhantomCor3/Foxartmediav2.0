@@ -4,8 +4,8 @@
         <div class="row">
             <div class="col-lg-4 mx-auto">
                 <div class="xs-heading text-center">
-                    <h2 class="section-subtitle">Previous Projects</h2>
-                    <h3 class="section-title ">Our Case Studies</h3>
+                    <h2 class="section-subtitle"><?php echo $Services2[0];?></h2>
+                    <h3 class="section-title "><?php echo $Services2[1];?></h3>
                 </div><!-- .xs-heading END -->
             </div>
         </div><!-- .row END -->
@@ -16,8 +16,8 @@
                         <img src="assets/images/case/case-1.png" alt="">
                     </div>
                     <div class="case-body">
-                        <h4 class="small"><a href="case-details.html">Million visitor growth</a></h4>
-                        <p>Visitor, Sales</p>
+                        <h4 class="small"><a href="case-details.html"><?php echo $Services2[2];?></a></h4>
+                        <p><?php echo $Services2[3];?></p>
                     </div>
                 </div><!-- .single-case-studies END -->
             </div>
@@ -27,8 +27,8 @@
                         <img src="assets/images/case/case-2.png" alt="">
                     </div>
                     <div class="case-body">
-                        <h4 class="small"><a href="case-details.html">Twice profit than before</a></h4>
-                        <p>Marketing, SEO</p>
+                        <h4 class="small"><a href="case-details.html"><?php echo $Services2[4];?></a></h4>
+                        <p><?php echo $Services2[5];?></p>
                     </div>
                 </div><!-- .single-case-studies END -->
             </div>
@@ -38,8 +38,8 @@
                         <img src="assets/images/case/case-3.png" alt="">
                     </div>
                     <div class="case-body">
-                        <h4 class="small"><a href="case-details.html">Built web faster & better</a></h4>
-                        <p>Marketing, Web</p>
+                        <h4 class="small"><a href="case-details.html"><?php echo $Services2[6];?></a></h4>
+                        <p><?php echo $Services2[7];?></p>
                     </div>
                 </div><!-- .single-case-studies END -->
             </div>

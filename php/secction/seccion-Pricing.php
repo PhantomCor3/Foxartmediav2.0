@@ -4,8 +4,8 @@
         <div class="row">
             <div class="col-lg-4 mx-auto">
                 <div class="xs-heading text-center">
-                    <h2 class="section-subtitle">Best Pricing</h2>
-                    <h3 class="section-title ">Our Pricing Plans</h3>
+                    <h2 class="section-subtitle"><?php echo $Pricing[0];?></h2>
+                    <h3 class="section-title "><?php echo $Pricing[1];?></h3>
                 </div><!-- .xs-heading END -->
             </div>
         </div><!-- .row END -->
@@ -13,10 +13,10 @@
             <div class="col-md-12 xs-pricing-group">
                 <ul class="nav nav-tabs main-nav-tab tab-swipe wow fadeIn" role="tablist">
                     <li>
-                        <a id="monthly-tab" class="active show" data-toggle="tab" href="#monthly" role="tab" aria-controls="monthly" aria-selected="true">Monthly</a>
+                        <a id="monthly-tab" class="active show" data-toggle="tab" href="#monthly" role="tab" aria-controls="monthly" aria-selected="true"><?php echo $Pricing[2];?></a>
                     </li>
                     <li>
-                        <a id="yearly-tab" data-toggle="tab" href="#yearly" role="tab" aria-controls="yearly" aria-selected="false">Yearly</a>
+                        <a id="yearly-tab" data-toggle="tab" href="#yearly" role="tab" aria-controls="yearly" aria-selected="false"><?php echo $Pricing[3];?></a>
                     </li>
                 </ul>
                 <div class="tab-content">
@@ -25,23 +25,23 @@
                             <div class="col-lg-4 col-md-6">
                                 <div class="xs-single-pricing">
                                     <div class="pricing-header">
-                                        <h3 class="xs-content-title">Starter Plan</h3>
+                                        <h3 class="xs-content-title"><?php echo $Pricing[4];?></h3>
                                         <div class="pricing-img-block">
                                             <img src="assets/images/pricing/pricing-1.png" alt="hostinza pricing image">
                                         </div>
-                                        <h2 class="price-table"><sup>$</sup>49.99 <sub>/mo</sub></h2>
+                                        <h2 class="price-table"><sup><?php echo $Pricing[5];?></sup><?php echo $Pricing[6];?><sub><?php echo $Pricing[7];?></sub></h2>
                                     </div><!-- .pricing-header END -->
                                     <div class="pricing-body">
                                         <ul class="xs-list">
-                                            <li>Increase traffic 130%</li>
-                                            <li>Backlink analysis</li>
-                                            <li>Organic traffic 215%</li>
-                                            <li>10 Free Optimization</li>
-                                            <li>24/7 support</li>
+                                            <li><?php echo $Pricing[8];?></li>
+                                            <li><?php echo $Pricing[9];?></li>
+                                            <li><?php echo $Pricing[10];?></li>
+                                            <li><?php echo $Pricing[11];?></li>
+                                            <li><?php echo $Pricing[12];?></li>
                                         </ul>
                                     </div><!-- .pricing-body END -->
                                     <div class="pricing-footer">
-                                        <a href="#" class="btn btn-primary">Buy Now</a>
+                                        <a href="#" class="btn btn-primary"><?php echo $Pricing[13];?></a>
                                     </div><!-- .pricing-footer END -->
                                     <div class="pulse-anim"></div>
                                 </div><!-- .xs-single-pricing END -->
@@ -49,23 +49,23 @@
                             <div class="col-lg-4 col-md-6">
                                 <div class="xs-single-pricing active">
                                     <div class="pricing-header">
-                                        <h3 class="xs-content-title">Basic Plan</h3>
+                                        <h3 class="xs-content-title"><?php echo $Pricing[14];?></h3>
                                         <div class="pricing-img-block">
                                             <img src="assets/images/pricing/pricing-2.png" alt="hostinza pricing image">
                                         </div>
-                                        <h2 class="price-table"><sup>$</sup>69.99 <sub>/mo</sub></h2>
+                                        <h2 class="price-table"><sup><?php echo $Pricing[15];?></sup><?php echo $Pricing[16];?><sub><?php echo $Pricing[17];?></sub></h2>
                                     </div><!-- .pricing-header END -->
                                     <div class="pricing-body">
                                         <ul class="xs-list">
-                                            <li>25 Analytics Compaign</li>
-                                            <li>1,300 Keywords</li>
-                                            <li>25 social media reviews</li>
-                                            <li>1 Free Optimization</li>
-                                            <li>24/7 support</li>
+                                            <li><?php echo $Pricing[18];?></li>
+                                            <li><?php echo $Pricing[19];?></li>
+                                            <li><?php echo $Pricing[20];?></li>
+                                            <li><?php echo $Pricing[21];?></li>
+                                            <li><?php echo $Pricing[22];?></li>
                                         </ul>
                                     </div><!-- .pricing-body END -->
                                     <div class="pricing-footer">
-                                        <a href="#" class="btn btn-primary">Buy Now</a>
+                                        <a href="#" class="btn btn-primary"><?php echo $Pricing[23];?></a>
                                     </div><!-- .pricing-footer END -->
                                     <div class="pulse-anim"></div>
                                 </div><!-- .xs-single-pricing END -->
@@ -73,7 +73,7 @@
                             <div class="col-lg-4 col-md-6">
                                 <div class="xs-single-pricing">
                                     <div class="pricing-header">
-                                        <h3 class="xs-content-title">Business Plan</h3>
+                                        <h3 class="xs-content-title"><?php echo $Pricing[24];?></h3>
                                         <div class="pricing-img-block">
                                             <img src="assets/images/pricing/pricing-3.png" alt="hostinza pricing image">
                                         </div>
@@ -81,15 +81,15 @@
                                     </div><!-- .pricing-header END -->
                                     <div class="pricing-body">
                                         <ul class="xs-list">
-                                            <li>Increase traffic 130%</li>
-                                            <li>Backlink analysis</li>
-                                            <li>Organic traffic 215%</li>
-                                            <li>10 Free Optimization</li>
-                                            <li>24/7 support</li>
+                                            <li><?php echo $Pricing[25];?></li>
+                                            <li><?php echo $Pricing[26];?></li>
+                                            <li><?php echo $Pricing[27];?></li>
+                                            <li><?php echo $Pricing[28];?></li>
+                                            <li><?php echo $Pricing[29];?></li>
                                         </ul>
                                     </div><!-- .pricing-body END -->
                                     <div class="pricing-footer">
-                                        <a href="#" class="btn btn-primary">Buy Now</a>
+                                        <a href="#" class="btn btn-primary"><?php echo $Pricing[30];?></a>
                                     </div><!-- .pricing-footer END -->
                                     <div class="pulse-anim"></div>
                                 </div><!-- .xs-single-pricing END -->
@@ -101,7 +101,7 @@
                             <div class="col-lg-4 col-md-6">
                                 <div class="xs-single-pricing">
                                     <div class="pricing-header">
-                                        <h3 class="xs-content-title">Basic Plan</h3>
+                                        <h3 class="xs-content-title"><?php echo $Pricing[0];?></h3>
                                         <div class="pricing-img-block">
                                             <img src="assets/images/pricing/pricing-1.png" alt="hostinza pricing image">
                                         </div>
@@ -109,15 +109,15 @@
                                     </div><!-- .pricing-header END -->
                                     <div class="pricing-body">
                                         <ul class="xs-list">
-                                            <li>Increase traffic 130%</li>
-                                            <li>Backlink analysis</li>
-                                            <li>Organic traffic 215%</li>
-                                            <li>10 Free Optimization</li>
-                                            <li>24/7 support</li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
                                         </ul>
                                     </div><!-- .pricing-body END -->
                                     <div class="pricing-footer">
-                                        <a href="#" class="btn btn-primary">Buy Now</a>
+                                        <a href="#" class="btn btn-primary"><?php echo $Pricing[0];?></a>
                                     </div><!-- .pricing-footer END -->
                                     <div class="pulse-anim"></div>
                                 </div><!-- .xs-single-pricing END -->
@@ -125,7 +125,7 @@
                             <div class="col-lg-4 col-md-6">
                                 <div class="xs-single-pricing active">
                                     <div class="pricing-header">
-                                        <h3 class="xs-content-title">Advanced Plan</h3>
+                                        <h3 class="xs-content-title"><?php echo $Pricing[0];?></h3>
                                         <div class="pricing-img-block">
                                             <img src="assets/images/pricing/pricing-2.png" alt="hostinza pricing image">
                                         </div>
@@ -133,15 +133,15 @@
                                     </div><!-- .pricing-header END -->
                                     <div class="pricing-body">
                                         <ul class="xs-list">
-                                            <li>25 Analytics Compaign</li>
-                                            <li>1,300 Keywords</li>
-                                            <li>25 social media reviews</li>
-                                            <li>1 Free Optimization</li>
-                                            <li>24/7 support</li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
                                         </ul>
                                     </div><!-- .pricing-body END -->
                                     <div class="pricing-footer">
-                                        <a href="#" class="btn btn-primary">Buy Now</a>
+                                        <a href="#" class="btn btn-primary"><?php echo $Pricing[0];?></a>
                                     </div><!-- .pricing-footer END -->
                                     <div class="pulse-anim"></div>
                                 </div><!-- .xs-single-pricing END -->
@@ -149,7 +149,7 @@
                             <div class="col-lg-4 col-md-6">
                                 <div class="xs-single-pricing">
                                     <div class="pricing-header">
-                                        <h3 class="xs-content-title">Business Plan</h3>
+                                        <h3 class="xs-content-title"><?php echo $Pricing[0];?></h3>
                                         <div class="pricing-img-block">
                                             <img src="assets/images/pricing/pricing-3.png" alt="hostinza pricing image">
                                         </div>
@@ -157,15 +157,15 @@
                                     </div><!-- .pricing-header END -->
                                     <div class="pricing-body">
                                         <ul class="xs-list">
-                                            <li>Increase traffic 130%</li>
-                                            <li>Backlink analysis</li>
-                                            <li>Organic traffic 215%</li>
-                                            <li>10 Free Optimization</li>
-                                            <li>24/7 support</li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
+                                            <li><?php echo $Pricing[0];?></li>
                                         </ul>
                                     </div><!-- .pricing-body END -->
                                     <div class="pricing-footer">
-                                        <a href="#" class="btn btn-primary">Buy Now</a>
+                                        <a href="#" class="btn btn-primary"><?php echo $Pricing[0];?></a>
                                     </div><!-- .pricing-footer END -->
                                     <div class="pulse-anim"></div>
                                 </div><!-- .xs-single-pricing END -->

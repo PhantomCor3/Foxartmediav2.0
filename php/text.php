@@ -66,6 +66,92 @@ $SEO = array(
 "Sample text.",
 );
 
+//Working
+$Working = array(		
+	"sample text",
+	"sample text",
+	"sample text",
+	"sample text",
+	"Sample text.",
+	"sample text.",
+	"sample text.",
+);
+
+//Services
+$Services = array(		
+	"sample text",
+	"sample text",
+	"sample text",
+	"sample text",
+	"Sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text",
+	"sample text",
+	"sample text",
+	"sample text",
+	"Sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+);
+
+//Services2
+$Services2 = array(		
+	"sample text",
+	"sample text",
+	"sample text",
+	"sample text",
+	"Sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+);
+
+//Pricing
+$Pricing = array(		
+	"sample text",
+	"sample text",
+	"sample text",
+	"sample text",
+	"Sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text",
+	"sample text",
+	"sample text",
+	"sample text",
+	"Sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text",
+	"sample text",
+	"sample text",
+	"sample text",
+	"Sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text.",
+	"sample text",
+	"sample text",
+	"sample text",
+
+);
+
 
 	
 //Home  etc.
