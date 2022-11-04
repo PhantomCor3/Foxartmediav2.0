@@ -37,11 +37,36 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 //Phrases
 	$Description="Cafe Jinotegano Las Praderas gracias al clima, tecnicas de cultivo y posicion geografica, obtenemos una selecta y magnifica mezcla de cafe.";	
  	$Phrase = array(
-		"Nuestra reputacion ha sido construida por nuestro producto de calidad.",
-		"Cultivo Organico y excelentes resultados.",
-		"Orgullo en lo que hacemos y en nuestro equipo de cultivo.",
-		"Promoviendo el cafe organico para cuidar de nuestra salud.",
+		"sample text",
+		"sample text",
+		"sample text",
+		"sample text",
+		"Sample text.",
+		"sample text.",
+		"sample text.",
+		"sample text.",
+		"Sample text.",
+		"sample text.",
+		"sample text.",
+		"sample text.",
+		"Sample text.",
+		"sample text.",
+		"sample text.",
+		"sample text.",
+
+
 	);
+
+//SEO	
+$SEO = array(		
+"sample text",
+"sample text",
+"sample text",
+"sample text",
+"Sample text.",
+);
+
+
 	
 //Home  etc.
 	$Home = array(		 

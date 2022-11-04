@@ -158,7 +158,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 11; min-width: 183px; max-width: 183px; max-width: 32px; max-width: 32px; white-space: nowrap; font-size: 24px; line-height: 22px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Lato;">Grow business by </div>
+            style="z-index: 11; min-width: 183px; max-width: 183px; max-width: 32px; max-width: 32px; white-space: nowrap; font-size: 24px; line-height: 22px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Lato;"><?php echo $Phrase[4];?></div>
 
 		<!-- LAYER NR. 8 -->
 		<div class="tp-caption   tp-resizeme" 
@@ -181,7 +181,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 12; min-width: 540px; max-width: 540px; white-space: normal; font-size: 56px; line-height: 61.6px; font-weight: 900; color: #ffffff; letter-spacing: 0px;font-family:Lato;">Digital Marketing </div>
+            style="z-index: 12; min-width: 540px; max-width: 540px; white-space: normal; font-size: 56px; line-height: 61.6px; font-weight: 900; color: #ffffff; letter-spacing: 0px;font-family:Lato;"><?php echo $Phrase[2];?></div>
 
 		<!-- LAYER NR. 9 -->
 		<div class="tp-caption   tp-resizeme" 
@@ -202,8 +202,7 @@
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 13; min-width: 445px; max-width: 445px; white-space: normal; font-size: 15px; line-height: 26px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Lato;">Share processes and data securely on a need to know basis 
-need for reconciliation it combines. </div>
+            style="z-index: 13; min-width: 445px; max-width: 445px; white-space: normal; font-size: 15px; line-height: 26px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Lato;"><?php echo $Phrase[5];?></div>
 
 		<!-- LAYER NR. 10 -->
 		<div class="tp-caption rev-btn " 
@@ -226,7 +225,7 @@ need for reconciliation it combines. </div>
             data-paddingbottom="[21,21,21,15]"
             data-paddingleft="[51,51,51,30]"
 
-            style="z-index: 14; min-width: 179px; max-width: 179px; white-space: normal; font-size: 15px; line-height: 17px; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: 0px;font-family:Lato;background-color:rgba(0,19,142,0.75);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Get Started </div>
+            style="z-index: 14; min-width: 179px; max-width: 179px; white-space: normal; font-size: 15px; line-height: 17px; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: 0px;font-family:Lato;background-color:rgba(0,19,142,0.75);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;"><?php echo $Phrase[6];?></div>
 	</li>
 	<!-- SLIDE  -->
     <li data-index="rs-26" data-transition="slideup" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="assets/images/rev-slider/banner-02/100x50_665d1-slider-bg-2.jpg"  data-delay="4060"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
@@ -253,7 +252,7 @@ need for reconciliation it combines. </div>
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 5; min-width: 183px; max-width: 183px; max-width: 32px; max-width: 32px; white-space: nowrap; font-size: 24px; line-height: 22px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Lato;">Digital Marketing </div>
+            style="z-index: 5; min-width: 183px; max-width: 183px; max-width: 32px; max-width: 32px; white-space: nowrap; font-size: 24px; line-height: 22px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Lato;"><?php echo $Phrase[7];?></div>
 
 		<!-- LAYER NR. 12 -->
 		<div class="tp-caption   tp-resizeme" 
@@ -276,8 +275,7 @@ need for reconciliation it combines. </div>
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 6; min-width: 540px; max-width: 540px; white-space: normal; font-size: 56px; line-height: 61.6px; font-weight: 900; color: #ffffff; letter-spacing: 0px;font-family:Lato;">Boosts your website 
-Traffic </div>
+            style="z-index: 6; min-width: 540px; max-width: 540px; white-space: normal; font-size: 56px; line-height: 61.6px; font-weight: 900; color: #ffffff; letter-spacing: 0px;font-family:Lato;"><?php echo $Phrase[3];?></div>
 
 		<!-- LAYER NR. 13 -->
 		<div class="tp-caption   tp-resizeme" 
@@ -298,8 +296,7 @@ Traffic </div>
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 7; min-width: 445px; max-width: 445px; white-space: normal; font-size: 15px; line-height: 26px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Lato;">Share processes and data securely on a need to know basis 
-need for reconciliation it combines. </div>
+            style="z-index: 7; min-width: 445px; max-width: 445px; white-space: normal; font-size: 15px; line-height: 26px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Lato;"><?php echo $Phrase[8];?></div>
 
 		<!-- LAYER NR. 14 -->
 		<div class="tp-caption rev-btn  tp-resizeme" 
@@ -323,7 +320,7 @@ need for reconciliation it combines. </div>
             data-paddingbottom="[21,21,21,15]"
             data-paddingleft="[51,51,51,30]"
 
-            style="z-index: 8; min-width: 179px; max-width: 179px; white-space: normal; font-size: 15px; line-height: 17px; font-weight: 100; color: rgba(255,255,255,1); letter-spacing: 0px;font-family:Lato;background-color:rgba(0,19,142,0.75);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Get Started </div>
+            style="z-index: 8; min-width: 179px; max-width: 179px; white-space: normal; font-size: 15px; line-height: 17px; font-weight: 100; color: rgba(255,255,255,1); letter-spacing: 0px;font-family:Lato;background-color:rgba(0,19,142,0.75);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;"><?php echo $Phrase[9];?></div>
 
 		<!-- LAYER NR. 15 -->
 		<div class="tp-caption   tp-resizeme rs-parallaxlevel-1" 
@@ -568,7 +565,7 @@ need for reconciliation it combines. </div>
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 10; min-width: 183px; max-width: 183px; max-width: 32px; max-width: 32px; white-space: nowrap; font-size: 24px; line-height: 22px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Lato;">Digital Marketing </div>
+            style="z-index: 10; min-width: 183px; max-width: 183px; max-width: 32px; max-width: 32px; white-space: nowrap; font-size: 24px; line-height: 22px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Lato;"><?php echo $Phrase[10];?></div>
 
 		<!-- LAYER NR. 26 -->
 		<div class="tp-caption   tp-resizeme" 
@@ -591,8 +588,7 @@ need for reconciliation it combines. </div>
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 11; min-width: 540px; max-width: 540px; white-space: normal; font-size: 56px; line-height: 61.6px; font-weight: 900; color: #ffffff; letter-spacing: 0px;font-family:Lato;">Boosts your website 
-Traffic </div>
+            style="z-index: 11; min-width: 540px; max-width: 540px; white-space: normal; font-size: 56px; line-height: 61.6px; font-weight: 900; color: #ffffff; letter-spacing: 0px;font-family:Lato;"><?php echo $Phrase[1];?></div>
 
 		<!-- LAYER NR. 27 -->
 		<div class="tp-caption   tp-resizeme" 
@@ -613,8 +609,7 @@ Traffic </div>
             data-paddingbottom="[0,0,0,0]"
             data-paddingleft="[0,0,0,0]"
 
-            style="z-index: 12; min-width: 445px; max-width: 445px; white-space: normal; font-size: 15px; line-height: 26px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Lato;">Share processes and data securely on a need to know basis 
-need for reconciliation it combines. </div>
+            style="z-index: 12; min-width: 445px; max-width: 445px; white-space: normal; font-size: 15px; line-height: 26px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Lato;"><?php echo $Phrase[11];?></div>
 
 		<!-- LAYER NR. 28 -->
 		<div class="tp-caption rev-btn " 
@@ -637,7 +632,7 @@ need for reconciliation it combines. </div>
             data-paddingbottom="[21,21,21,15]"
             data-paddingleft="[51,51,51,30]"
 
-            style="z-index: 13; min-width: 179px; max-width: 179px; white-space: normal; font-size: 15px; line-height: 17px; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: 0px;font-family:Lato;background-color:rgba(0,19,142,0.75);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Get Started </div>
+            style="z-index: 13; min-width: 179px; max-width: 179px; white-space: normal; font-size: 15px; line-height: 17px; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: 0px;font-family:Lato;background-color:rgba(0,19,142,0.75);border-color:rgba(0,0,0,1);border-radius:3px 3px 3px 3px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;"><?php echo $Phrase[12];?></div>
 	</li>
 </ul>
 <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>

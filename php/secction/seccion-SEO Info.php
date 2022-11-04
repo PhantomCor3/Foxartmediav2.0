@@ -10,14 +10,14 @@
             <div class="col-lg-6 align-self-center">
                 <div class="xs-info-wraper wow fadeInUp">
                     <div class="xs-heading">
-                        <h3 class="section-title">Get best plans for more Power</h3>
+                        <h3 class="section-title"><?php echo $SEO[0];?></h3>
                         <span class="line"></span>
                     </div>
-                    <p>Our best-in-class WordPress solution, with additional optimization to make running a WooCommerce online store easy. Our prices are clear and straight forward so you can</p>
+                    <p><?php echo $SEO[1];?></p>
                     <ul class="xs-list check">
-                        <li>We've been supporting WordPress since the beginning.</li>
-                        <li>Perfect for large sites or agencies managing multiple clients.</li>
-                        <li>Our easy-to-use control panel and API let you spend</li>
+                        <li><?php echo $SEO[2];?></li>
+                        <li><?php echo $SEO[3];?></li>
+                        <li><?php echo $SEO[4];?></li>
                     </ul>
                     <a href="#" class="btn btn-secondary">Get Started</a>
                 </div><!-- .xs-info-wraper END -->
