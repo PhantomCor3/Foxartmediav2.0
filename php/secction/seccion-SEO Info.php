@@ -15,9 +15,9 @@
                     </div>
                     <p><?php echo $SEO[1];?></p>
                     <ul class="xs-list check">
-                        <li><?php echo $SEO[2];?></li>
-                        <li><?php echo $SEO[3];?></li>
-                        <li><?php echo $SEO[4];?></li>
+                        <li><?php echo $SEO[0];?></li>
+                        <li><?php echo $SEO[0];?></li>
+                        <li><?php echo $SEO[0];?></li>
                     </ul>
                     <a href="#" class="btn btn-secondary">Get Started</a>
                 </div><!-- .xs-info-wraper END -->

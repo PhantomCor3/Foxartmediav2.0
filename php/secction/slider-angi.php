@@ -21,7 +21,7 @@
         <div id="slider-direction-2" class="t-cn slider-direction">
             <div class="slider-content s-tb slider-2">
                 <div class="title-container s-tb-c">
-                    <h1 class="title1"><?php echo $Phrase[2];?></h1>
+                    <h1 class="title1"><?php echo $Phrase[0];?></h1>
                     <h3><?php echo $Experience;?></h3>
                     <div class="slider-btn-area">
                         <a href="about.php" class="btn-slider-fill">Descubre mas</a>
@@ -33,8 +33,8 @@
         <div id="slider-direction-3" class="t-cn slider-direction">
             <div class="slider-content s-tb slider-3">
                 <div class="title-container s-tb-c">
-                    <h1 class="title1"><?php echo $Phrase[3];?></h1>
-                    <h3><?php echo $Phrase[1];?></h3>
+                    <h1 class="title1"><?php echo $Phrase[0];?></h1>
+                    <h3><?php echo $Phrase[0];?></h3>
                     <div class="slider-btn-area">
                         <a href="about.php" class="btn-slider-fill">Descubre mas</a>
                         <a href="contact.php" class="btn-slider-fill">Contactanos</a>
