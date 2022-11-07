@@ -13,7 +13,7 @@
                         <h3 class="section-title"><?php echo $SEO[0];?></h3>
                         <span class="line"></span>
                     </div>
-                    <p><?php echo $SEO[1];?></p>
+                    <p><?php echo $SEO[0];?></p>
                     <ul class="xs-list check">
                         <li><?php echo $SEO[0];?></li>
                         <li><?php echo $SEO[0];?></li>

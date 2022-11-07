@@ -38,120 +38,56 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$Description="Cafe Jinotegano Las Praderas gracias al clima, tecnicas de cultivo y posicion geografica, obtenemos una selecta y magnifica mezcla de cafe.";	
  	$Phrase = array(
 		"sample text",
-		"sample text",
-		"sample text",
-		"sample text",
-		"Sample text.",
-		"sample text.",
-		"sample text.",
-		"sample text.",
-		"Sample text.",
-		"sample text.",
-		"sample text.",
-		"sample text.",
-		"Sample text.",
-		"sample text.",
-		"sample text.",
-		"sample text.",
-
 
 	);
 
 //SEO	
 $SEO = array(		
 "sample text",
-"sample text",
-"sample text",
-"sample text",
-"Sample text.",
+
 );
 
 //Working
 $Working = array(		
 	"sample text",
-	"sample text",
-	"sample text",
-	"sample text",
-	"Sample text.",
-	"sample text.",
-	"sample text.",
+
 );
 
 //Services
 $Services = array(		
 	"sample text",
-	"sample text",
-	"sample text",
-	"sample text",
-	"Sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text",
-	"sample text",
-	"sample text",
-	"sample text",
-	"Sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
+
 );
 
 //Services2
 $Services2 = array(		
 	"sample text",
-	"sample text",
-	"sample text",
-	"sample text",
-	"Sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
+
 );
 
 //Pricing
 $Pricing = array(		
 	"sample text",
-	"sample text",
-	"sample text",
-	"sample text",
-	"Sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text",
-	"sample text",
-	"sample text",
-	"sample text",
-	"Sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text",
-	"sample text",
-	"sample text",
-	"sample text",
-	"Sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text.",
-	"sample text",
-	"sample text",
+
+);
+
+//Testimonials
+$Testimonials = array(		
 	"sample text",
 
 );
 
+//Media
+$Media = array(		
+	"sample text",
+
+);
+
+//Info
+$Info = array(		
+	"sample text",
+
+);
 
 	
 //Home  etc.

@@ -4,8 +4,8 @@
         <div class="row">
             <div class="col-lg-4 mx-auto">
                 <div class="xs-heading text-center">
-                    <h2 class="section-subtitle">Latest News</h2>
-                    <h3 class="section-title ">Our Latest Media</h3>
+                    <h2 class="section-subtitle"><?php echo $Media[0];?></h2>
+                    <h3 class="section-title "><?php echo $Media[0];?></h3>
                 </div><!-- .xs-heading END -->
             </div>
         </div><!-- .row END -->
@@ -17,12 +17,12 @@
                     </div>
                     <div class="post-body">
                         <div class="entry-header">
-                            <h4 class="entry-title"><a href="blog-single.html">Twice profit than before you ever got in business</a></h4>
+                            <h4 class="entry-title"><a href="blog-single.html"><?php echo $Media[0];?></a></h4>
                             <div class="entry-content">
-                                <p>Join our award winning teams thats enjoy </p>
+                                <p><?php echo $Media[0];?></p>
                             </div>
                             <div class="entry-meta">
-                                <span class="meta-date"><i class="icon icon-clock"></i> January 14, 2018</span>
+                                <span class="meta-date"><i class="icon icon-clock"></i><?php echo $Media[0];?></span>
                             </div>
                         </div>
                     </div>
@@ -35,12 +35,12 @@
                     </div>
                     <div class="post-body">
                         <div class="entry-header">
-                            <h4 class="entry-title"><a href="blog-single.html">Twice profit than before you ever got in business</a></h4>
+                            <h4 class="entry-title"><a href="blog-single.html"><?php echo $Media[0];?></a></h4>
                             <div class="entry-content">
-                                <p>Join our award winning teams thats enjoy </p>
+                                <p><?php echo $Media[0];?></p>
                             </div>
                             <div class="entry-meta">
-                                <span class="meta-date"><i class="icon icon-clock"></i> January 14, 2018</span>
+                                <span class="meta-date"><i class="icon icon-clock"></i><?php echo $Media[0];?></span>
                             </div>
                         </div>
                     </div>
@@ -50,8 +50,8 @@
                 <div class="newsletter-thumb-wraper">
                     <i class="icon icon-message fly-icons"></i>
                     <div class="newsletter-thumb-content">
-                        <h4 class=xs-content-title>Get Newsletter</h4>
-                        <p>Enter your email in the box below to receive latest news and information about our activities</p>
+                        <h4 class=xs-content-title><?php echo $Media[0];?></h4>
+                        <p><?php echo $Media[0];?></p>
                         <form action="#" method="POST" class="subscribe-form2">
                             <input type="email" class="form-control" name="email" placeholder="Email" id="newsletter-thumb">
                             <label for="newsletter-thumb"></label>
